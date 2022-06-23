@@ -10,7 +10,6 @@ and learning programming through small projects  on the side.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4dc5c&lines=Welcome%20to%20my%20Github%20Repo's;Data%20Science%20Enthusiast;less%20is%20better)](https://git.io/typing-svg)
 
-<br>
 
 <p>
 <div align="center">
@@ -20,22 +19,6 @@ and learning programming through small projects  on the side.
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
 </p>
-
-```python
-class JodikalPomalingo():
-    
-  def __init__(self):
-    self.name = "Jodikal Pomalingo";
-    self.username = "jpomalingo";
-    self.location = "Gorontalo, Indonesia";
-    self.instagram = "@jpomalingo";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = JodikalPomalingo()
-```
 
 ## My Statistics
 
@@ -48,6 +31,6 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Jodikal' Activity Graph](https://activity-graph.herokuapp.com/graph?username=jpomalingo&custom_title=My%20Contribution%20Graph&theme=javascript-dark&bg_color=e4dc5c&hide_border=true&line=1d0151&point=035053)](https://github.com/jpomalingo/)
+[![Jodikal' Activity Graph](https://activity-graph.herokuapp.com/graph?username=jpomalingo&custom_title=Jodikal%20Pomalingo%20Contribution%20Graph&theme=javascript-dark&bg_color=e4dc5c&hide_border=true&line=1d0151&point=035053)](https://github.com/jpomalingo/)
 
 ------
