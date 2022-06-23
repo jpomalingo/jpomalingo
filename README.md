@@ -8,6 +8,10 @@ and learning programming through small projects  on the side.
 
 <br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4dc5c&lines=Welcome%20to%20my%20Github%20Repo's;Data%20Science%20Enthusiast;less%20is%20better)](https://git.io/typing-svg)
+
+<br>
+
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
@@ -38,12 +42,12 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://github.com/jpomalingo/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jpomalingo&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jpomalingo&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jpomalingo&show_icons=true&theme=javascript&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jpomalingo&theme=yeblu&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Jodikal' Activity Graph](https://activity-graph.herokuapp.com/graph?username=jpomalingo&custom_title=My%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/jpomalingo/)
+[![Jodikal' Activity Graph](https://activity-graph.herokuapp.com/graph?username=jpomalingo&custom_title=My%20Contribution%20Graph&theme=javascript-dark&bg_color=e4dc5c&hide_border=true&line=1d0151&point=035053)](https://github.com/jpomalingo/)
 
 ------
