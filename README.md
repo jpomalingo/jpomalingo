@@ -17,6 +17,7 @@ and learning programming through small projects  on the side.
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-PHP-474a8a?style=for-the-badge&logo=php&logoColor=474a8a&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Swift-f05138?style=for-the-badge&logo=swift&logoColor=f05138&labelColor=282828">
 </div>
 </p>
 
