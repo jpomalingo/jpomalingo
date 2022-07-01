@@ -2,9 +2,8 @@
   <b>Jodikal Pomalingo</b>
 </h1>
 
-Heya! I'm Jodikal, a freshgraduate currently living in Gorontalo, Indonesia. I'm preparing for 
-<a href="#">AI Deep Learning</a>, 
-and learning programming through small projects  on the side.
+Hayy! I'm Jodikal Pomalingo, a freshgraduate currently living in Gorontalo, Indonesia. I'm preparing for 
+<a href="#">AI Deep Learning</a>, and learning programming through small projects  on the side.
 
 <br>
 
