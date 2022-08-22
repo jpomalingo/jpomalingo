@@ -33,16 +33,17 @@ Hayy! I'm Jodikal Pomalingo, a freshgraduate currently living in Gorontalo, Indo
 </p>
 
 ### 🚴🏼‍♂️ My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://github.com/jpomalingo/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jpomalingo&show_icons=true&theme=javascript&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jpomalingo&theme=yeblu&hide_border=true" />
-  </a>
+<p>
+  <div = "center">
+    <a href="https://github.com/jpomalingo/">
+      <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpomalingo&layout=compact&langs_count=8&theme=javascript&hide_border=true"/>
+      <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=jpomalingo&theme=yeblu&hide_border=true" />
+      <img height="145em" src="https://github-readme-stats.vercel.app/api?username=jpomalingo&show_icons=true&theme=javascript&hide_border=true" />
+    </a>
+   </div>
 </p>
 <br>
 
-[![Jodikal' Activity Graph](https://activity-graph.herokuapp.com/graph?username=jpomalingo&custom_title=Jodikal%20Pomalingo%20Contribution%20Graph&theme=javascript-dark&bg_color=e4dc5c&hide_border=true&line=1d0151&point=035053)](https://github.com/jpomalingo/)
+[![Jodikal' Activity Graph](https://activity-graph.herokuapp.com/graph?username=jpomalingo&custom_title=Jodikal%20Pomalingo%20Contribution%20Graph&theme=minimal&hide_border=true&point=186ec4)](https://github.com/jpomalingo/)
 
 ------
