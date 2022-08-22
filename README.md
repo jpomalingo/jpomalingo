@@ -26,7 +26,7 @@ Hayy! I'm Jodikal Pomalingo, a freshgraduate currently living in Gorontalo, Indo
     <a href="https://www.linkedin.com/in/jodikal-pomalingo/" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a> 
-    <a href="#" target="_blank">
+    <a href="https://www.instagram.com/jpomalingo/" target="_blank">
       <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
     </a> 
    </div>
