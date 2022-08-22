@@ -36,9 +36,9 @@ Hayy! I'm Jodikal Pomalingo, a freshgraduate currently living in Gorontalo, Indo
 <p>
   <div = "center">
     <a href="https://github.com/jpomalingo/">
-      <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpomalingo&layout=compact&langs_count=8&theme=javascript&hide_border=true"/>
-      <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=jpomalingo&theme=yeblu&hide_border=true" />
-      <img height="145em" src="https://github-readme-stats.vercel.app/api?username=jpomalingo&show_icons=true&theme=javascript&hide_border=true" />
+      <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpomalingo&layout=compact&langs_count=8&theme=javascript&hide_border=true"/>
+      <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=jpomalingo&theme=yeblu&hide_border=true" />
+      <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jpomalingo&show_icons=true&theme=javascript&hide_border=true" />
     </a>
    </div>
 </p>
