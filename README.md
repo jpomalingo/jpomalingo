@@ -20,6 +20,16 @@ Hayy! I'm Jodikal Pomalingo, a freshgraduate currently living in Gorontalo, Indo
 </div>
 </p>
 
+### 🔍 You Can Find Me at 
+<p> 
+  <a href="https://www.linkedin.com/in/jodikal-pomalingo/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="#" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
+</p>
+
 ## My Statistics
 
 <br/>
