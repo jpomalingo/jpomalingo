@@ -43,7 +43,4 @@ Hayy! I'm Jodikal Pomalingo, a freshgraduate currently living in Gorontalo, Indo
    </div>
 </p>
 <br>
-
-[![Jodikal' Activity Graph](https://activity-graph.herokuapp.com/graph?username=jpomalingo&custom_title=Jodikal%20Pomalingo%20Contribution%20Graph&theme=minimal&hide_border=true&point=186ec4)](https://github.com/jpomalingo/)
-
 ------
